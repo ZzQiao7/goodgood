@@ -8,17 +8,43 @@ OWNER = "ZzQiao7"
 REPO = "surge-icons"
 BRANCH = "main"
 
-pngs = sorted(
-    (p for p in ROOT.rglob("*.png") if ".git" not in p.parts),
-    key=lambda p: p.relative_to(ROOT).as_posix().lower(),
-)
+COUNTRY_PREFIXES = ("flag-",)
+
+# App / service / browser icons. Everything else stays in the middle as General.
+APP_NAMES = {
+    "amap", "apple-weather", "apple", "baidu-netdisk", "bilibili", "bluesky",
+    "chatgpt", "chrome-canary", "chrome", "chromium", "discord", "edge",
+    "element", "emby", "firefox-developer", "firefox-nightly", "firefox",
+    "github", "gitlab", "inaturalist", "instagram", "internet-explorer", "jd",
+    "jellyfin", "linkedin", "mastodon", "meitu", "microsoft", "musicbrainz",
+    "netease-cloud-music", "netscape-navigator", "openfoodfact", "openstreetmap",
+    "opera", "paypal", "peertube", "pinduoduo", "pinterest", "pixelfed",
+    "qq-music", "quark", "safari", "soul", "spotify", "taobao", "telegram",
+    "tiktok", "twitter", "wechat", "wikidata", "windows", "winrar", "xianyu",
+    "xiaoheihe", "xiaohongshu", "youtube",
+}
+
+def group_for(stem):
+    key = stem.lower()
+    if key.startswith(COUNTRY_PREFIXES):
+        return "Country"
+    if key in APP_NAMES:
+        return "App"
+    return "General"
+
+pngs = [p for p in ROOT.rglob("*.png") if ".git" not in p.parts]
+pngs.sort(key=lambda p: (
+    {"App": 0, "General": 1, "Country": 2}[group_for(p.stem)],
+    p.stem.lower(),
+    p.relative_to(ROOT).as_posix().lower(),
+))
 
 icons = []
 for path in pngs:
     rel = path.relative_to(ROOT).as_posix()
     icons.append({
         "name": path.stem,
-        "category": "ZzQiao7",
+        "category": group_for(path.stem),
         "url": f"https://raw.githubusercontent.com/{OWNER}/{REPO}/{BRANCH}/{quote(rel, safe='/')}",
     })
 
