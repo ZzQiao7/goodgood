@@ -7,6 +7,7 @@ on:
     paths:
       - "**/*.png"
       - "scripts/generate-icons.py"
+      - ".github/workflows/update-icons.yml"
   workflow_dispatch:
 
 permissions:
@@ -19,17 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate surge-icon.json
+      - name: Generate both Surge icon sets
         run: python3 scripts/generate-icons.py
 
       - name: Commit changes
         run: |
-          if git diff --quiet -- surge-icon.json; then
-            echo "surge-icon.json is already up to date."
+          if git diff --quiet -- surge-icon.json surge-icons.json; then
+            echo "Both Surge icon sets are already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add surge-icon.json
+          git add surge-icon.json surge-icons.json
           git commit -m "chore: update Surge icon set"
           git push

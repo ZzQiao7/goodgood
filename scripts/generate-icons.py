@@ -10,31 +10,13 @@ BRANCH = "main"
 
 COUNTRY_PREFIXES = ("flag-",)
 
-# App / service / browser icons. Everything else stays in the middle as General.
-APP_NAMES = {
-    "amap", "apple-weather", "apple", "baidu-netdisk", "bilibili", "bluesky",
-    "chatgpt", "chrome-canary", "chrome", "chromium", "discord", "edge",
-    "element", "emby", "firefox-developer", "firefox-nightly", "firefox",
-    "github", "gitlab", "inaturalist", "instagram", "internet-explorer", "jd",
-    "jellyfin", "linkedin", "mastodon", "meitu", "microsoft", "musicbrainz",
-    "netease-cloud-music", "netscape-navigator", "openfoodfact", "openstreetmap",
-    "opera", "paypal", "peertube", "pinduoduo", "pinterest", "pixelfed",
-    "qq-music", "quark", "safari", "soul", "spotify", "taobao", "telegram",
-    "tiktok", "twitter", "wechat", "wikidata", "windows", "winrar", "xianyu",
-    "xiaoheihe", "xiaohongshu", "youtube",
-}
-
+# All non-country icons share one alphabetical list, including new/custom icons.
 def group_for(stem):
-    key = stem.lower()
-    if key.startswith(COUNTRY_PREFIXES):
-        return "99 Country"
-    if key in APP_NAMES:
-        return "01 App"
-    return "02 General"
+    return "99 国家图标" if stem.lower().startswith(COUNTRY_PREFIXES) else "01 非国家图标"
 
 pngs = [p for p in ROOT.rglob("*.png") if ".git" not in p.parts]
 pngs.sort(key=lambda p: (
-    {"01 App": 0, "02 General": 1, "99 Country": 2}[group_for(p.stem)],
+    group_for(p.stem),
     p.stem.lower(),
     p.relative_to(ROOT).as_posix().lower(),
 ))
@@ -54,8 +36,7 @@ data = {
     "icons": icons,
 }
 
-(ROOT / "surge-icon.json").write_text(
-    json.dumps(data, ensure_ascii=False, indent=2) + "\n",
-    encoding="utf-8",
-)
-print(f"Generated surge-icon.json with {len(icons)} icons.")
+content = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+for filename in ("surge-icon.json", "surge-icons.json"):
+    (ROOT / filename).write_text(content, encoding="utf-8")
+print(f"Generated both Surge icon sets with {len(icons)} icons.")

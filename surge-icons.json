@@ -1,409 +1,526 @@
 {
   "name": "goodgood",
+  "description": "Custom policy group icons for Surge",
   "icons": [
     {
       "name": "alien-monster",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/alien-monster.png"
     },
     {
+      "name": "alpha",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/alpha.png"
+    },
+    {
       "name": "amap",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/amap.png"
     },
     {
-      "name": "apple-weather",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/apple-weather.png"
-    },
-    {
       "name": "apple",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/apple.png"
     },
     {
+      "name": "apple-weather",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/apple-weather.png"
+    },
+    {
       "name": "artist-palette",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/artist-palette.png"
     },
     {
       "name": "autonomous-car",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/autonomous-car.png"
     },
     {
       "name": "avocado",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/avocado.png"
     },
     {
       "name": "baidu-netdisk",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/baidu-netdisk.png"
     },
     {
       "name": "barcode",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/barcode.png"
     },
     {
       "name": "bilibili",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/bilibili.png"
     },
     {
       "name": "bluesky",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/bluesky.png"
     },
     {
       "name": "bullet-train",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/bullet-train.png"
     },
     {
       "name": "camera",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/camera.png"
     },
     {
       "name": "chatgpt",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/chatgpt.png"
     },
     {
       "name": "cheese-wedge",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/cheese-wedge.png"
     },
     {
-      "name": "chrome-canary",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/chrome-canary.png"
-    },
-    {
       "name": "chrome",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/chrome.png"
     },
     {
+      "name": "chrome-canary",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/chrome-canary.png"
+    },
+    {
       "name": "chromium",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/chromium.png"
     },
     {
       "name": "clapper-board",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/clapper-board.png"
     },
     {
       "name": "computer-mouse2",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/computer-mouse2.png"
     },
     {
       "name": "desktop-computer",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/desktop-computer.png"
     },
     {
       "name": "discord",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/discord.png"
     },
     {
       "name": "edge",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/edge.png"
     },
     {
       "name": "element",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/element.png"
     },
     {
       "name": "emby",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/emby.png"
     },
     {
+      "name": "firefox",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/firefox.png"
+    },
+    {
       "name": "firefox-developer",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/firefox-developer.png"
     },
     {
       "name": "firefox-nightly",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/firefox-nightly.png"
     },
     {
-      "name": "firefox",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/firefox.png"
-    },
-    {
-      "name": "flag-china",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-china.png"
-    },
-    {
-      "name": "flag-france",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-france.png"
-    },
-    {
-      "name": "flag-germany",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-germany.png"
-    },
-    {
-      "name": "flag-japan",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-japan.png"
-    },
-    {
-      "name": "flag-singapore",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-singapore.png"
-    },
-    {
-      "name": "flag-south-korea",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-south-korea.png"
-    },
-    {
-      "name": "flag-taiwan",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-taiwan.png"
-    },
-    {
-      "name": "flag-united-kingdom",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-united-kingdom.png"
-    },
-    {
-      "name": "flag-united-states",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-united-states.png"
-    },
-    {
       "name": "four-leaf-clover",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/four-leaf-clover.png"
     },
     {
+      "name": "george-pig",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/george-pig.png"
+    },
+    {
       "name": "github",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/github.png"
     },
     {
       "name": "gitlab",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/gitlab.png"
     },
     {
       "name": "globe-showing-americas",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/globe-showing-americas.png"
     },
     {
       "name": "globe-showing-asia-australia",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/globe-showing-asia-australia.png"
     },
     {
       "name": "globe-showing-europe-africa",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/globe-showing-europe-africa.png"
     },
     {
       "name": "goggles",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/goggles.png"
     },
     {
       "name": "house-with-garden",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/house-with-garden.png"
     },
     {
       "name": "houses",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/houses.png"
     },
     {
       "name": "inaturalist",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/inaturalist.png"
     },
     {
       "name": "instagram",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/instagram.png"
     },
     {
       "name": "internet-explorer",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/internet-explorer.png"
     },
     {
       "name": "jd",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/jd.png"
     },
     {
       "name": "jellyfin",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/jellyfin.png"
     },
     {
       "name": "joystick",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/joystick.png"
     },
     {
       "name": "linkedin",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/linkedin.png"
     },
     {
       "name": "mastodon",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/mastodon.png"
     },
     {
       "name": "meitu",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/meitu.png"
     },
     {
       "name": "microsoft",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/microsoft.png"
     },
     {
       "name": "mount-fuji",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/mount-fuji.png"
     },
     {
       "name": "musicbrainz",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/musicbrainz.png"
     },
     {
       "name": "netease-cloud-music",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/netease-cloud-music.png"
     },
     {
       "name": "netscape-navigator",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/netscape-navigator.png"
     },
     {
       "name": "oncoming-taxi",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/oncoming-taxi.png"
     },
     {
       "name": "open-mailbox-with-raised-flag",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/open-mailbox-with-raised-flag.png"
     },
     {
       "name": "openfoodfact",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/openfoodfact.png"
     },
     {
       "name": "openstreetmap",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/openstreetmap.png"
     },
     {
       "name": "opera",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/opera.png"
     },
     {
       "name": "paypal",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/paypal.png"
     },
     {
       "name": "peertube",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/peertube.png"
     },
     {
       "name": "pinduoduo",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/pinduoduo.png"
     },
     {
       "name": "pinterest",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/pinterest.png"
     },
     {
       "name": "pixelfed",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/pixelfed.png"
     },
     {
       "name": "qq-music",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/qq-music.png"
     },
     {
       "name": "quark",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/quark.png"
     },
     {
       "name": "robot",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/robot.png"
     },
     {
       "name": "rocket",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/rocket.png"
     },
     {
       "name": "roll-of-paper",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/roll-of-paper.png"
     },
     {
       "name": "safari",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/safari.png"
     },
     {
       "name": "soul",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/soul.png"
     },
     {
       "name": "speak-no-evil-monkey",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/speak-no-evil-monkey.png"
     },
     {
       "name": "spotify",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/spotify.png"
     },
     {
       "name": "taobao",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/taobao.png"
     },
     {
       "name": "tear-off-calendar",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/tear-off-calendar.png"
     },
     {
       "name": "telegram",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/telegram.png"
     },
     {
       "name": "tiktok",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/tiktok.png"
     },
     {
       "name": "twitter",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/twitter.png"
     },
     {
       "name": "unicorn",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/unicorn.png"
     },
     {
       "name": "video-game",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/video-game.png"
     },
     {
+      "name": "volcano",
+      "category": "01 非国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/volcano.png"
+    },
+    {
       "name": "volcano-ashes",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/volcano-ashes.png"
     },
     {
       "name": "volcano-eruption",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/volcano-eruption.png"
     },
     {
-      "name": "volcano",
-      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/volcano.png"
-    },
-    {
       "name": "web-syndication",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/web-syndication.png"
     },
     {
       "name": "wechat",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/wechat.png"
     },
     {
       "name": "wikidata",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/wikidata.png"
     },
     {
       "name": "wind-energy",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/wind-energy.png"
     },
     {
       "name": "windows",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/windows.png"
     },
     {
       "name": "winrar",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/winrar.png"
     },
     {
       "name": "wireless",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/wireless.png"
     },
     {
       "name": "world-map",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/world-map.png"
     },
     {
       "name": "xianyu",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/xianyu.png"
     },
     {
       "name": "xiaoheihe",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/xiaoheihe.png"
     },
     {
       "name": "xiaohongshu",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/xiaohongshu.png"
     },
     {
       "name": "youtube",
+      "category": "01 非国家图标",
       "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/youtube.png"
+    },
+    {
+      "name": "flag-china",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-china.png"
+    },
+    {
+      "name": "flag-france",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-france.png"
+    },
+    {
+      "name": "flag-germany",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-germany.png"
+    },
+    {
+      "name": "flag-hong-kong-sar-china",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-hong-kong-sar-china.png"
+    },
+    {
+      "name": "flag-japan",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-japan.png"
+    },
+    {
+      "name": "flag-singapore",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-singapore.png"
+    },
+    {
+      "name": "flag-south-korea",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-south-korea.png"
+    },
+    {
+      "name": "flag-taiwan",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-taiwan.png"
+    },
+    {
+      "name": "flag-united-kingdom",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-united-kingdom.png"
+    },
+    {
+      "name": "flag-united-states",
+      "category": "99 国家图标",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/goodgood/main/flag-united-states.png"
     }
   ]
 }
