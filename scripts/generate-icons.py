@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import hashlib
 import json
 from pathlib import Path
 from urllib.parse import quote
@@ -24,10 +25,11 @@ pngs.sort(key=lambda p: (
 icons = []
 for path in pngs:
     rel = path.relative_to(ROOT).as_posix()
+    version = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
     icons.append({
         "name": path.stem,
         "category": group_for(path.stem),
-        "url": f"https://raw.githubusercontent.com/{OWNER}/{REPO}/{BRANCH}/{quote(rel, safe='/')}",
+        "url": f"https://raw.githubusercontent.com/{OWNER}/{REPO}/{BRANCH}/{quote(rel, safe='/')}?v={version}",
     })
 
 data = {
