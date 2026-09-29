@@ -37,6 +37,5 @@ data = {
 }
 
 content = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
-for filename in ("surge-icon.json", "surge-icons.json"):
-    (ROOT / filename).write_text(content, encoding="utf-8")
-print(f"Generated both Surge icon sets with {len(icons)} icons.")
+(ROOT / "zzzz-surge-icon.json").write_text(content, encoding="utf-8")
+print(f"Generated Surge icon set with {len(icons)} icons.")
