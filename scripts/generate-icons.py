@@ -5,7 +5,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 OWNER = "ZzQiao7"
-REPO = "surge-icons"
+REPO = "goodgood"
 BRANCH = "main"
 
 COUNTRY_PREFIXES = ("flag-",)
@@ -49,7 +49,7 @@ for path in pngs:
     })
 
 data = {
-    "name": "ZzQiao7 Surge Icons",
+    "name": "goodgood",
     "description": "Custom policy group icons for Surge",
     "icons": icons,
 }
