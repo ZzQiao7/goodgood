@@ -1,0 +1,409 @@
+{
+  "name": "国家和 APP 图标",
+  "icons": [
+    {
+      "name": "alien-monster",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/alien-monster.png"
+    },
+    {
+      "name": "amap",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/amap.png"
+    },
+    {
+      "name": "apple-weather",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/apple-weather.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/apple.png"
+    },
+    {
+      "name": "artist-palette",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/artist-palette.png"
+    },
+    {
+      "name": "autonomous-car",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/autonomous-car.png"
+    },
+    {
+      "name": "avocado",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/avocado.png"
+    },
+    {
+      "name": "baidu-netdisk",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/baidu-netdisk.png"
+    },
+    {
+      "name": "barcode",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/barcode.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/bilibili.png"
+    },
+    {
+      "name": "bluesky",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/bluesky.png"
+    },
+    {
+      "name": "bullet-train",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/bullet-train.png"
+    },
+    {
+      "name": "camera",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/camera.png"
+    },
+    {
+      "name": "chatgpt",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/chatgpt.png"
+    },
+    {
+      "name": "cheese-wedge",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/cheese-wedge.png"
+    },
+    {
+      "name": "chrome-canary",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/chrome-canary.png"
+    },
+    {
+      "name": "chrome",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/chrome.png"
+    },
+    {
+      "name": "chromium",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/chromium.png"
+    },
+    {
+      "name": "clapper-board",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/clapper-board.png"
+    },
+    {
+      "name": "computer-mouse2",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/computer-mouse2.png"
+    },
+    {
+      "name": "desktop-computer",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/desktop-computer.png"
+    },
+    {
+      "name": "discord",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/discord.png"
+    },
+    {
+      "name": "edge",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/edge.png"
+    },
+    {
+      "name": "element",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/element.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/emby.png"
+    },
+    {
+      "name": "firefox-developer",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/firefox-developer.png"
+    },
+    {
+      "name": "firefox-nightly",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/firefox-nightly.png"
+    },
+    {
+      "name": "firefox",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/firefox.png"
+    },
+    {
+      "name": "flag-china",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-china.png"
+    },
+    {
+      "name": "flag-france",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-france.png"
+    },
+    {
+      "name": "flag-germany",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-germany.png"
+    },
+    {
+      "name": "flag-japan",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-japan.png"
+    },
+    {
+      "name": "flag-singapore",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-singapore.png"
+    },
+    {
+      "name": "flag-south-korea",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-south-korea.png"
+    },
+    {
+      "name": "flag-taiwan",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-taiwan.png"
+    },
+    {
+      "name": "flag-united-kingdom",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-united-kingdom.png"
+    },
+    {
+      "name": "flag-united-states",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/flag-united-states.png"
+    },
+    {
+      "name": "four-leaf-clover",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/four-leaf-clover.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/github.png"
+    },
+    {
+      "name": "gitlab",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/gitlab.png"
+    },
+    {
+      "name": "globe-showing-americas",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/globe-showing-americas.png"
+    },
+    {
+      "name": "globe-showing-asia-australia",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/globe-showing-asia-australia.png"
+    },
+    {
+      "name": "globe-showing-europe-africa",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/globe-showing-europe-africa.png"
+    },
+    {
+      "name": "goggles",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/goggles.png"
+    },
+    {
+      "name": "house-with-garden",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/house-with-garden.png"
+    },
+    {
+      "name": "houses",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/houses.png"
+    },
+    {
+      "name": "inaturalist",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/inaturalist.png"
+    },
+    {
+      "name": "instagram",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/instagram.png"
+    },
+    {
+      "name": "internet-explorer",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/internet-explorer.png"
+    },
+    {
+      "name": "jd",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/jd.png"
+    },
+    {
+      "name": "jellyfin",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/jellyfin.png"
+    },
+    {
+      "name": "joystick",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/joystick.png"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/linkedin.png"
+    },
+    {
+      "name": "mastodon",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/mastodon.png"
+    },
+    {
+      "name": "meitu",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/meitu.png"
+    },
+    {
+      "name": "microsoft",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/microsoft.png"
+    },
+    {
+      "name": "mount-fuji",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/mount-fuji.png"
+    },
+    {
+      "name": "musicbrainz",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/musicbrainz.png"
+    },
+    {
+      "name": "netease-cloud-music",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/netease-cloud-music.png"
+    },
+    {
+      "name": "netscape-navigator",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/netscape-navigator.png"
+    },
+    {
+      "name": "oncoming-taxi",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/oncoming-taxi.png"
+    },
+    {
+      "name": "open-mailbox-with-raised-flag",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/open-mailbox-with-raised-flag.png"
+    },
+    {
+      "name": "openfoodfact",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/openfoodfact.png"
+    },
+    {
+      "name": "openstreetmap",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/openstreetmap.png"
+    },
+    {
+      "name": "opera",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/opera.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/paypal.png"
+    },
+    {
+      "name": "peertube",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/peertube.png"
+    },
+    {
+      "name": "pinduoduo",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/pinduoduo.png"
+    },
+    {
+      "name": "pinterest",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/pinterest.png"
+    },
+    {
+      "name": "pixelfed",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/pixelfed.png"
+    },
+    {
+      "name": "qq-music",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/qq-music.png"
+    },
+    {
+      "name": "quark",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/quark.png"
+    },
+    {
+      "name": "robot",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/robot.png"
+    },
+    {
+      "name": "rocket",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/rocket.png"
+    },
+    {
+      "name": "roll-of-paper",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/roll-of-paper.png"
+    },
+    {
+      "name": "safari",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/safari.png"
+    },
+    {
+      "name": "soul",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/soul.png"
+    },
+    {
+      "name": "speak-no-evil-monkey",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/speak-no-evil-monkey.png"
+    },
+    {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/spotify.png"
+    },
+    {
+      "name": "taobao",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/taobao.png"
+    },
+    {
+      "name": "tear-off-calendar",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/tear-off-calendar.png"
+    },
+    {
+      "name": "telegram",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/telegram.png"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/tiktok.png"
+    },
+    {
+      "name": "twitter",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/twitter.png"
+    },
+    {
+      "name": "unicorn",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/unicorn.png"
+    },
+    {
+      "name": "video-game",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/video-game.png"
+    },
+    {
+      "name": "volcano-ashes",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/volcano-ashes.png"
+    },
+    {
+      "name": "volcano-eruption",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/volcano-eruption.png"
+    },
+    {
+      "name": "volcano",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/volcano.png"
+    },
+    {
+      "name": "web-syndication",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/web-syndication.png"
+    },
+    {
+      "name": "wechat",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/wechat.png"
+    },
+    {
+      "name": "wikidata",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/wikidata.png"
+    },
+    {
+      "name": "wind-energy",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/wind-energy.png"
+    },
+    {
+      "name": "windows",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/windows.png"
+    },
+    {
+      "name": "winrar",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/winrar.png"
+    },
+    {
+      "name": "wireless",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/wireless.png"
+    },
+    {
+      "name": "world-map",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/world-map.png"
+    },
+    {
+      "name": "xianyu",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/xianyu.png"
+    },
+    {
+      "name": "xiaoheihe",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/xiaoheihe.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/xiaohongshu.png"
+    },
+    {
+      "name": "youtube",
+      "url": "https://raw.githubusercontent.com/ZzQiao7/surge-icons/main/youtube.png"
+    }
+  ]
+}
