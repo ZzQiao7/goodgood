@@ -27,14 +27,14 @@ APP_NAMES = {
 def group_for(stem):
     key = stem.lower()
     if key.startswith(COUNTRY_PREFIXES):
-        return "Country"
+        return "99 Country"
     if key in APP_NAMES:
-        return "App"
-    return "General"
+        return "01 App"
+    return "02 General"
 
 pngs = [p for p in ROOT.rglob("*.png") if ".git" not in p.parts]
 pngs.sort(key=lambda p: (
-    {"App": 0, "General": 1, "Country": 2}[group_for(p.stem)],
+    {"01 App": 0, "02 General": 1, "99 Country": 2}[group_for(p.stem)],
     p.stem.lower(),
     p.relative_to(ROOT).as_posix().lower(),
 ))
