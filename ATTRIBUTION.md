@@ -29,6 +29,7 @@ flag-china.png
 flag-france.png
 flag-germany.png
 flag-japan.png
+flag-macao-sar-china.png
 flag-singapore.png
 flag-south-korea.png
 flag-taiwan.png
